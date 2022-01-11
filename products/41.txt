@@ -1,0 +1,4 @@
+Name: Yamaha R15 V4
+Price: 180000
+Category: Bikes
+

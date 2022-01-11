@@ -1,0 +1,32 @@
+Name: iPhone 12
+Price: 51000
+Category: Mobiles,Electronics
+
+Name: Poco
+Price: 17000
+Category: Mobiles,Electronics
+
+Name: HP Laptop
+Price: 52000
+Category: Laptops,Electronics
+
+Name: DELL Laptop
+Price: 80000
+Category: Laptops,Electronics
+
+Name: Honda Hornet
+Price: 125000
+Category: Bikes
+
+Name: KTM duke
+Price: 200000
+Category: Bikes
+
+Name: Yamaha R15 V4
+Price: 180000
+Category: Bikes
+
+Name: Laptop Bag
+Price: 1500
+Category: Bags
+

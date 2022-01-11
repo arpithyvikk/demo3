@@ -1,0 +1,4 @@
+Name: Honda Hornet
+Price: 125000
+Category: Bikes
+

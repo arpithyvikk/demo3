@@ -1,0 +1,4 @@
+Name: KTM duke
+Price: 200000
+Category: Bikes
+

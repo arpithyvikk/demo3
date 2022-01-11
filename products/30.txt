@@ -1,0 +1,4 @@
+Name: HP Laptop
+Price: 52000
+Category: Laptops,Electronics
+

@@ -1,0 +1,91 @@
+.main{
+    min-height: 500px!important;
+}
+.custom-select{
+    width: 50px!important;
+}
+header{
+    font-weight: 600!important;
+    border-bottom:solid lightgrey 1px;
+}
+footer{
+    border-top:solid lightgrey 1px;
+    border-bottom:solid lightgrey 1px;
+
+
+}
+.error {
+    color: red;
+}
+.download{
+    margin:10px!important;
+    text-align: right!important;
+
+}
+.main-head {
+    text-align: center!important;
+    padding: 30px 20px!important;
+    color:#382222;
+    /* border: solid 1px lightgray;
+    margin: 20px 20px; */
+}
+.title-head{
+    text-align: center!important;
+
+    padding: 30px 20px!important;
+    color:#382222;
+}
+.cartbtn{
+    padding:0 10px;
+}
+.nav1{
+    background-color: #f8f9fa!important;
+    min-height: 550px;
+}
+.links a{
+    padding:10px 20px 10px 15px;
+    text-decoration: none;
+    color: #767675;
+    font-weight: 600;
+}
+.links a:hover{
+    padding:10px 20px 10px 15px;
+    text-decoration: none;
+    color: #424242;
+    font-weight: 600;
+}
+hr{
+    width: 90%!important;
+    margin-left:10px;
+}
+a {
+    text-decoration: none!important;
+}
+.dropdown-item{
+    text-decoration: none!important;
+}
+
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
+    width: 70%!important;
+}
+.custom-select{
+    width: 50px!important;
+}
+.error{
+    color:red;
+}
+.ugender{
+    margin-top: 35px;
+}
+.ugender1{
+    margin-top: 39px;
+}
+
+.card{
+    margin:20px 50px;
+    border:none!important
+}
+.card img{
+    height: 300px!important;
+    width: auto;
+}

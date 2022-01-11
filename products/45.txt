@@ -1,0 +1,4 @@
+Name: DELL Laptop
+Price: 80000
+Category: Laptops,Electronics
+

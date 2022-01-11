@@ -1,0 +1,4 @@
+Name: Poco
+Price: 17000
+Category: Mobiles,Electronics
+

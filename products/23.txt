@@ -1,0 +1,4 @@
+Name: iPhone 12
+Price: 51000
+Category: Mobiles,Electronics
+

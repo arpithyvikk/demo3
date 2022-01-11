@@ -1,0 +1,4 @@
+Name: Laptop Bag
+Price: 1500
+Category: Bags
+
