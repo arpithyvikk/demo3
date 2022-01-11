@@ -1,5 +1,8 @@
 <?php include "dbconfig.php"; 
-session_start();?>
+session_start();
+
+
+?>
 <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
@@ -54,7 +57,9 @@ session_start();?>
             </span>
             </button>
             </a>
+            
           </div>
+ 
           <div class="btn-group">
             <button type="button" class="btn btn-secondary dropdown-toggle" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
                 Account
